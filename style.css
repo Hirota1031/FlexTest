@@ -1,0 +1,13 @@
+.container {
+    background-color: #D6F7F8;
+    height: 50vh;
+    padding: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.item {
+    background-color: #5ce1E6;
+    margin: 5px;
+    font-size: 30px;
+}
